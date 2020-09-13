@@ -1,2 +1,2 @@
 # matthillservices.com
-Redirect for matthillservices.com.au.
+Redirect to matthillservices.com.au.
